@@ -1,7 +1,3 @@
-¡Claro! A continuación, te presento un ejemplo de **README.md** profesional, claro y bien estructurado para tu proyecto de gestión de filas en salas de urgencias en Chile (clasificación C1 a C5), usando **WebSockets**, **Express** y **React**:
-
----
-
 # 🚑 Sistema de Gestión de Filas para Salas de Urgencia (Clasificación C1–C5)
 
 Este proyecto es un sistema web en tiempo real diseñado para gestionar eficientemente las filas de pacientes en salas de urgencia según la **clasificación chilena de triaje C1 a C5**. Utiliza **WebSockets** para sincronización en tiempo real entre el personal médico y las pantallas de sala de espera, y está construido con **Node.js + Express** en el backend y **React** en el frontend.
